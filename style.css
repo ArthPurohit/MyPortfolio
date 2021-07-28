@@ -1,0 +1,40 @@
+h1{
+    color:orange
+}
+
+.header{
+background-color: aliceblue;
+display: flex;
+justify-content: space-between;
+
+}
+
+p,h2{
+
+    color:skyblue
+
+}
+
+.site_description{
+
+display: flex;
+flex-direction: column;
+justify-content: first baseline;
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0%;
+    color: aliceblue;
+    width: 100%;
+    left: 0%;
+    text-align: center;
+
+}
+
